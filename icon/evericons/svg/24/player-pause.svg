@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>24 / player-pause</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7,2 L9,2 C10.1045695,2 11,2.8954305 11,4 L11,20 C11,21.1045695 10.1045695,22 9,22 L7,22 C5.8954305,22 5,21.1045695 5,20 L5,4 C5,2.8954305 5.8954305,2 7,2 Z M7,4 L7,20 L9,20 L9,4 L7,4 Z M15,2 L17,2 C18.1045695,2 19,2.8954305 19,4 L19,20 C19,21.1045695 18.1045695,22 17,22 L15,22 C13.8954305,22 13,21.1045695 13,20 L13,4 C13,2.8954305 13.8954305,2 15,2 Z M15,4 L15,20 L17,20 L17,4 L15,4 Z" id="path-1"></path>
+    </defs>
+    <g id="24-/-player-pause" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="player-pause">
+            <rect id="placeholder" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Rectangle-10" fill-rule="nonzero"></g>
+            <g id="color-/-1---primary" mask="url(#mask-2)" fill="#000000">
+                <rect id="color" x="0" y="0" width="24" height="24"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

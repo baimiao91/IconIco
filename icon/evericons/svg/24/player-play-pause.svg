@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>24 / player-play-pause</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M2,21 L2,3 C2,2.17595468 2.94076375,1.70557281 3.6,2.2 L15.6,11.2 C16.1333333,11.6 16.1333333,12.4 15.6,12.8 L3.6,21.8 C2.94076375,22.2944272 2,21.8240453 2,21 Z M4,19 L13.3333333,12 L4,5 L4,19 Z M22,22 L20,22 L20,2 L22,2 L22,22 Z M19,22 L17,22 L17,2 L19,2 L19,22 Z" id="path-1"></path>
+    </defs>
+    <g id="24-/-player-play-pause" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="player-play-pause">
+            <rect id="placeholder" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Shape" fill-rule="nonzero"></g>
+            <g id="color-/-1---primary" mask="url(#mask-2)" fill="#000000">
+                <rect id="color" x="0" y="0" width="24" height="24"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

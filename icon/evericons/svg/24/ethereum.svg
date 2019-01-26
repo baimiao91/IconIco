@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>24 / ethereum</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.66225524,11.4149441 L11.2018504,13.1847416 L11.2018504,6.10555128 L7.66225524,11.4149441 Z M13.2018504,6.10555128 L13.2018504,13.1847416 L16.7414456,11.4149441 L13.2018504,6.10555128 Z M15.2810408,14.3812144 L13.2018504,15.4208096 L13.2018504,17.5 L15.2810408,14.3812144 Z M11.2018504,17.5 L11.2018504,15.4208096 L9.12266005,14.3812144 L11.2018504,17.5 Z M12.2018504,1 L19.4037009,11.8027756 L12.2018504,22.6055513 L5,11.8027756 L12.2018504,1 Z" id="path-1"></path>
+    </defs>
+    <g id="24-/-ethereum" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="placeholder" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g id="Combined-Shape" fill-rule="nonzero"></g>
+        <g id="color-/-1---primary" mask="url(#mask-2)" fill="#000000">
+            <rect id="color" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

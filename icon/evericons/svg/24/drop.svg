@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>24 / drop</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12.6577283,1.24674475 C18.1886921,6.07627821 21,10.29324 21,14 C21,19.2493364 16.9029475,23 12,23 C7.09705254,23 3,19.2493364 3,14 C3,10.29324 5.81130786,6.07627821 11.3422717,1.24674475 L12,0.672428777 L12.6577283,1.24674475 Z M5,14 C5,18.1033978 8.16411512,21 12,21 C15.8358849,21 19,18.1033978 19,14 C19,11.1507676 16.693388,7.56645344 12,3.33659609 C7.30661202,7.56645344 5,11.1507676 5,14 Z" id="path-1"></path>
+    </defs>
+    <g id="24-/-drop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="drop">
+            <rect id="placeholder" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Shape" fill-rule="nonzero"></g>
+            <g id="color-/-1---primary" mask="url(#mask-2)" fill="#000000">
+                <rect id="color" x="0" y="0" width="24" height="24"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

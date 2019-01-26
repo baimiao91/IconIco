@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>24 / bookmark-no</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M5,6.41421356 L1.29289322,2.70710678 L2.70710678,1.29289322 L22.7071068,21.2928932 L21.2928932,22.7071068 L19,20.4142136 L19,23.618034 L12,20.118034 L5,23.618034 L5,6.41421356 Z M17,18.4142136 L7,8.41421356 L7,20.381966 L12,17.881966 L17,20.381966 L17,18.4142136 Z M5.69693,1.48271649 C6.04694522,1.18184064 6.50223703,1 7,1 L17,1 C18.1045695,1 19,1.8954305 19,3 L19,14.7857865 L17,12.7857865 L17,3 L7.21421351,3 L5.69693,1.48271649 Z" id="path-1"></path>
+    </defs>
+    <g id="24-/-bookmark-no" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bookmark-no">
+            <rect id="placeholder" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Shape-Copy-9" fill-rule="nonzero"></g>
+            <g id="color-/-1---primary" mask="url(#mask-2)" fill="#000000">
+                <rect id="color" x="0" y="0" width="24" height="24"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
